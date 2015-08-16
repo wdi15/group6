@@ -1,1 +1,5 @@
-# group6
+Group members:
+Marko
+Karan
+Zezheng
+Tim
