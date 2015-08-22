@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+}
+
+img {
+
+	transition: width 2s;
+
+}
+
+img:hover{
+
+
+}
